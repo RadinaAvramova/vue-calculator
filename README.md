@@ -1,2 +1,3 @@
 # vue-calculator
-vue-calculator
+
+npm run serve
